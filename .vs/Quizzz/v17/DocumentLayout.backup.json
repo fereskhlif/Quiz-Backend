@@ -1,0 +1,709 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\Quizzz\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C19A5A05-1898-428A-8634-6E80A42EE5A3}|Quizzz\\Quizzz.csproj|c:\\users\\user\\source\\repos\\quizzz\\quizzz\\configurations\\automapperconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C19A5A05-1898-428A-8634-6E80A42EE5A3}|Quizzz\\Quizzz.csproj|solutionrelative:quizzz\\configurations\\automapperconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C19A5A05-1898-428A-8634-6E80A42EE5A3}|Quizzz\\Quizzz.csproj|c:\\users\\user\\source\\repos\\quizzz\\quizzz\\controllers\\utilisateurcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C19A5A05-1898-428A-8634-6E80A42EE5A3}|Quizzz\\Quizzz.csproj|solutionrelative:quizzz\\controllers\\utilisateurcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C19A5A05-1898-428A-8634-6E80A42EE5A3}|Quizzz\\Quizzz.csproj|c:\\users\\user\\source\\repos\\quizzz\\quizzz\\models\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C19A5A05-1898-428A-8634-6E80A42EE5A3}|Quizzz\\Quizzz.csproj|solutionrelative:quizzz\\models\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C19A5A05-1898-428A-8634-6E80A42EE5A3}|Quizzz\\Quizzz.csproj|c:\\users\\user\\source\\repos\\quizzz\\quizzz\\models\\quizzcontext.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C19A5A05-1898-428A-8634-6E80A42EE5A3}|Quizzz\\Quizzz.csproj|solutionrelative:quizzz\\models\\quizzcontext.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C19A5A05-1898-428A-8634-6E80A42EE5A3}|Quizzz\\Quizzz.csproj|c:\\users\\user\\source\\repos\\quizzz\\quizzz\\controllers\\condidatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C19A5A05-1898-428A-8634-6E80A42EE5A3}|Quizzz\\Quizzz.csproj|solutionrelative:quizzz\\controllers\\condidatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C19A5A05-1898-428A-8634-6E80A42EE5A3}|Quizzz\\Quizzz.csproj|c:\\users\\user\\source\\repos\\quizzz\\quizzz\\models\\candidat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C19A5A05-1898-428A-8634-6E80A42EE5A3}|Quizzz\\Quizzz.csproj|solutionrelative:quizzz\\models\\candidat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C19A5A05-1898-428A-8634-6E80A42EE5A3}|Quizzz\\Quizzz.csproj|c:\\users\\user\\source\\repos\\quizzz\\quizzz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C19A5A05-1898-428A-8634-6E80A42EE5A3}|Quizzz\\Quizzz.csproj|solutionrelative:quizzz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C19A5A05-1898-428A-8634-6E80A42EE5A3}|Quizzz\\Quizzz.csproj|c:\\users\\user\\source\\repos\\quizzz\\quizzz\\models\\questiontest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C19A5A05-1898-428A-8634-6E80A42EE5A3}|Quizzz\\Quizzz.csproj|solutionrelative:quizzz\\models\\questiontest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C19A5A05-1898-428A-8634-6E80A42EE5A3}|Quizzz\\Quizzz.csproj|c:\\users\\user\\source\\repos\\quizzz\\quizzz\\models\\questiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C19A5A05-1898-428A-8634-6E80A42EE5A3}|Quizzz\\Quizzz.csproj|solutionrelative:quizzz\\models\\questiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C19A5A05-1898-428A-8634-6E80A42EE5A3}|Quizzz\\Quizzz.csproj|c:\\users\\user\\source\\repos\\quizzz\\quizzz\\models\\reponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C19A5A05-1898-428A-8634-6E80A42EE5A3}|Quizzz\\Quizzz.csproj|solutionrelative:quizzz\\models\\reponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C19A5A05-1898-428A-8634-6E80A42EE5A3}|Quizzz\\Quizzz.csproj|c:\\users\\user\\source\\repos\\quizzz\\quizzz\\models\\reponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C19A5A05-1898-428A-8634-6E80A42EE5A3}|Quizzz\\Quizzz.csproj|solutionrelative:quizzz\\models\\reponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C19A5A05-1898-428A-8634-6E80A42EE5A3}|Quizzz\\Quizzz.csproj|c:\\users\\user\\source\\repos\\quizzz\\quizzz\\models\\testdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C19A5A05-1898-428A-8634-6E80A42EE5A3}|Quizzz\\Quizzz.csproj|solutionrelative:quizzz\\models\\testdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C19A5A05-1898-428A-8634-6E80A42EE5A3}|Quizzz\\Quizzz.csproj|c:\\users\\user\\source\\repos\\quizzz\\quizzz\\models\\questionhistoriquedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C19A5A05-1898-428A-8634-6E80A42EE5A3}|Quizzz\\Quizzz.csproj|solutionrelative:quizzz\\models\\questionhistoriquedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C19A5A05-1898-428A-8634-6E80A42EE5A3}|Quizzz\\Quizzz.csproj|c:\\users\\user\\source\\repos\\quizzz\\quizzz\\models\\utilisateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C19A5A05-1898-428A-8634-6E80A42EE5A3}|Quizzz\\Quizzz.csproj|solutionrelative:quizzz\\models\\utilisateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C19A5A05-1898-428A-8634-6E80A42EE5A3}|Quizzz\\Quizzz.csproj|c:\\users\\user\\source\\repos\\quizzz\\quizzz\\models\\condidatcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C19A5A05-1898-428A-8634-6E80A42EE5A3}|Quizzz\\Quizzz.csproj|solutionrelative:quizzz\\models\\condidatcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C19A5A05-1898-428A-8634-6E80A42EE5A3}|Quizzz\\Quizzz.csproj|c:\\users\\user\\source\\repos\\quizzz\\quizzz\\models\\utilisateurdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C19A5A05-1898-428A-8634-6E80A42EE5A3}|Quizzz\\Quizzz.csproj|solutionrelative:quizzz\\models\\utilisateurdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C19A5A05-1898-428A-8634-6E80A42EE5A3}|Quizzz\\Quizzz.csproj|c:\\users\\user\\source\\repos\\quizzz\\quizzz\\models\\condidatdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C19A5A05-1898-428A-8634-6E80A42EE5A3}|Quizzz\\Quizzz.csproj|solutionrelative:quizzz\\models\\condidatdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C19A5A05-1898-428A-8634-6E80A42EE5A3}|Quizzz\\Quizzz.csproj|c:\\users\\user\\source\\repos\\quizzz\\quizzz\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C19A5A05-1898-428A-8634-6E80A42EE5A3}|Quizzz\\Quizzz.csproj|solutionrelative:quizzz\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C19A5A05-1898-428A-8634-6E80A42EE5A3}|Quizzz\\Quizzz.csproj|c:\\users\\user\\source\\repos\\quizzz\\quizzz\\controllers\\questioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C19A5A05-1898-428A-8634-6E80A42EE5A3}|Quizzz\\Quizzz.csproj|solutionrelative:quizzz\\controllers\\questioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C19A5A05-1898-428A-8634-6E80A42EE5A3}|Quizzz\\Quizzz.csproj|c:\\users\\user\\source\\repos\\quizzz\\quizzz\\models\\testcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C19A5A05-1898-428A-8634-6E80A42EE5A3}|Quizzz\\Quizzz.csproj|solutionrelative:quizzz\\models\\testcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C19A5A05-1898-428A-8634-6E80A42EE5A3}|Quizzz\\Quizzz.csproj|c:\\users\\user\\source\\repos\\quizzz\\quizzz\\controllers\\sectionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C19A5A05-1898-428A-8634-6E80A42EE5A3}|Quizzz\\Quizzz.csproj|solutionrelative:quizzz\\controllers\\sectionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C19A5A05-1898-428A-8634-6E80A42EE5A3}|Quizzz\\Quizzz.csproj|c:\\users\\user\\source\\repos\\quizzz\\quizzz\\models\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C19A5A05-1898-428A-8634-6E80A42EE5A3}|Quizzz\\Quizzz.csproj|solutionrelative:quizzz\\models\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C19A5A05-1898-428A-8634-6E80A42EE5A3}|Quizzz\\Quizzz.csproj|c:\\users\\user\\source\\repos\\quizzz\\quizzz\\models\\section.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C19A5A05-1898-428A-8634-6E80A42EE5A3}|Quizzz\\Quizzz.csproj|solutionrelative:quizzz\\models\\section.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C19A5A05-1898-428A-8634-6E80A42EE5A3}|Quizzz\\Quizzz.csproj|c:\\users\\user\\source\\repos\\quizzz\\quizzz\\collegedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C19A5A05-1898-428A-8634-6E80A42EE5A3}|Quizzz\\Quizzz.csproj|solutionrelative:quizzz\\collegedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C19A5A05-1898-428A-8634-6E80A42EE5A3}|Quizzz\\Quizzz.csproj|c:\\users\\user\\source\\repos\\quizzz\\quizzz\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C19A5A05-1898-428A-8634-6E80A42EE5A3}|Quizzz\\Quizzz.csproj|solutionrelative:quizzz\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C19A5A05-1898-428A-8634-6E80A42EE5A3}|Quizzz\\Quizzz.csproj|c:\\users\\user\\source\\repos\\quizzz\\quizzz\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C19A5A05-1898-428A-8634-6E80A42EE5A3}|Quizzz\\Quizzz.csproj|solutionrelative:quizzz\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C19A5A05-1898-428A-8634-6E80A42EE5A3}|Quizzz\\Quizzz.csproj|c:\\users\\user\\source\\repos\\quizzz\\quizzz\\controllers\\reponsecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C19A5A05-1898-428A-8634-6E80A42EE5A3}|Quizzz\\Quizzz.csproj|solutionrelative:quizzz\\controllers\\reponsecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C19A5A05-1898-428A-8634-6E80A42EE5A3}|Quizzz\\Quizzz.csproj|c:\\users\\user\\source\\repos\\quizzz\\quizzz\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C19A5A05-1898-428A-8634-6E80A42EE5A3}|Quizzz\\Quizzz.csproj|solutionrelative:quizzz\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C19A5A05-1898-428A-8634-6E80A42EE5A3}|Quizzz\\Quizzz.csproj|c:\\users\\user\\source\\repos\\quizzz\\quizzz\\models\\personne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C19A5A05-1898-428A-8634-6E80A42EE5A3}|Quizzz\\Quizzz.csproj|solutionrelative:quizzz\\models\\personne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C19A5A05-1898-428A-8634-6E80A42EE5A3}|Quizzz\\Quizzz.csproj|c:\\users\\user\\source\\repos\\quizzz\\quizzz\\models\\resetpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C19A5A05-1898-428A-8634-6E80A42EE5A3}|Quizzz\\Quizzz.csproj|solutionrelative:quizzz\\models\\resetpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C19A5A05-1898-428A-8634-6E80A42EE5A3}|Quizzz\\Quizzz.csproj|c:\\users\\user\\source\\repos\\quizzz\\quizzz\\models\\emailmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C19A5A05-1898-428A-8634-6E80A42EE5A3}|Quizzz\\Quizzz.csproj|solutionrelative:quizzz\\models\\emailmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C19A5A05-1898-428A-8634-6E80A42EE5A3}|Quizzz\\Quizzz.csproj|c:\\users\\user\\source\\repos\\quizzz\\quizzz\\utilityservice\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C19A5A05-1898-428A-8634-6E80A42EE5A3}|Quizzz\\Quizzz.csproj|solutionrelative:quizzz\\utilityservice\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C19A5A05-1898-428A-8634-6E80A42EE5A3}|Quizzz\\Quizzz.csproj|c:\\users\\user\\source\\repos\\quizzz\\quizzz\\utilityservice\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C19A5A05-1898-428A-8634-6E80A42EE5A3}|Quizzz\\Quizzz.csproj|solutionrelative:quizzz\\utilityservice\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C19A5A05-1898-428A-8634-6E80A42EE5A3}|Quizzz\\Quizzz.csproj|c:\\users\\user\\source\\repos\\quizzz\\quizzz\\helper\\emailbody.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C19A5A05-1898-428A-8634-6E80A42EE5A3}|Quizzz\\Quizzz.csproj|solutionrelative:quizzz\\helper\\emailbody.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\AppData\\Local\\Temp\\Rar$DIa1756.8318\\PasswordHasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C19A5A05-1898-428A-8634-6E80A42EE5A3}|Quizzz\\Quizzz.csproj|c:\\users\\user\\source\\repos\\quizzz\\quizzz\\quizzz.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C19A5A05-1898-428A-8634-6E80A42EE5A3}|Quizzz\\Quizzz.csproj|solutionrelative:quizzz\\quizzz.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C19A5A05-1898-428A-8634-6E80A42EE5A3}|Quizzz\\Quizzz.csproj|c:\\users\\user\\source\\repos\\quizzz\\quizzz\\helper\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C19A5A05-1898-428A-8634-6E80A42EE5A3}|Quizzz\\Quizzz.csproj|solutionrelative:quizzz\\helper\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\source\\repos\\Quizzz\\Quizzz\\obj\\project.assets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Quizzz\\obj\\project.assets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\AppData\\Local\\Temp\\ydaunlkw..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\AppData\\Local\\Temp\\whl35r14..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C19A5A05-1898-428A-8634-6E80A42EE5A3}|Quizzz\\Quizzz.csproj|c:\\users\\user\\source\\repos\\quizzz\\quizzz\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C19A5A05-1898-428A-8634-6E80A42EE5A3}|Quizzz\\Quizzz.csproj|solutionrelative:quizzz\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C19A5A05-1898-428A-8634-6E80A42EE5A3}|Quizzz\\Quizzz.csproj|c:\\users\\user\\source\\repos\\quizzz\\quizzz\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C19A5A05-1898-428A-8634-6E80A42EE5A3}|Quizzz\\Quizzz.csproj|solutionrelative:quizzz\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Quizzz\\Quizzz\\Program.cs",
+              "RelativeDocumentMoniker": "Quizzz\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Quizzz\\Quizzz\\Program.cs",
+              "RelativeToolTip": "Quizzz\\Program.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAADwv4EAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T16:38:10.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Candidat.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Quizzz\\Quizzz\\Models\\Candidat.cs",
+              "RelativeDocumentMoniker": "Quizzz\\Models\\Candidat.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Quizzz\\Quizzz\\Models\\Candidat.cs",
+              "RelativeToolTip": "Quizzz\\Models\\Candidat.cs",
+              "ViewState": "AgIAAAsAAAAAzczMzMwXwAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T10:16:01.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CondidatController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Quizzz\\Quizzz\\Controllers\\CondidatController.cs",
+              "RelativeDocumentMoniker": "Quizzz\\Controllers\\CondidatController.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Quizzz\\Quizzz\\Controllers\\CondidatController.cs",
+              "RelativeToolTip": "Quizzz\\Controllers\\CondidatController.cs",
+              "ViewState": "AgIAAKcAAAAAAAAAAAAAAKcAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T09:08:33.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Test.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Quizzz\\Quizzz\\Models\\Test.cs",
+              "RelativeDocumentMoniker": "Quizzz\\Models\\Test.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Quizzz\\Quizzz\\Models\\Test.cs",
+              "RelativeToolTip": "Quizzz\\Models\\Test.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T10:20:11.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UtilisateurController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Quizzz\\Quizzz\\Controllers\\UtilisateurController.cs",
+              "RelativeDocumentMoniker": "Quizzz\\Controllers\\UtilisateurController.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Quizzz\\Quizzz\\Controllers\\UtilisateurController.cs*",
+              "RelativeToolTip": "Quizzz\\Controllers\\UtilisateurController.cs*",
+              "ViewState": "AgIAAG8AAAAAAwAAAAANwHMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T10:55:54.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AutoMapperConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Quizzz\\Quizzz\\Configurations\\AutoMapperConfiguration.cs",
+              "RelativeDocumentMoniker": "Quizzz\\Configurations\\AutoMapperConfiguration.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Quizzz\\Quizzz\\Configurations\\AutoMapperConfiguration.cs*",
+              "RelativeToolTip": "Quizzz\\Configurations\\AutoMapperConfiguration.cs*",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T15:00:47.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Quizzz\\Quizzz\\Models\\TestDTO.cs",
+              "RelativeDocumentMoniker": "Quizzz\\Models\\TestDTO.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Quizzz\\Quizzz\\Models\\TestDTO.cs",
+              "RelativeToolTip": "Quizzz\\Models\\TestDTO.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAgwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T13:39:05.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "QuizzContext.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Quizzz\\Quizzz\\Models\\QuizzContext.cs",
+              "RelativeDocumentMoniker": "Quizzz\\Models\\QuizzContext.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Quizzz\\Quizzz\\Models\\QuizzContext.cs",
+              "RelativeToolTip": "Quizzz\\Models\\QuizzContext.cs",
+              "ViewState": "AgIAAFcAAACQAAAAAEAowGEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T08:54:57.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ReponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Quizzz\\Quizzz\\Models\\ReponseDTO.cs",
+              "RelativeDocumentMoniker": "Quizzz\\Models\\ReponseDTO.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Quizzz\\Quizzz\\Models\\ReponseDTO.cs",
+              "RelativeToolTip": "Quizzz\\Models\\ReponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T20:48:15.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Reponse.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Quizzz\\Quizzz\\Models\\Reponse.cs",
+              "RelativeDocumentMoniker": "Quizzz\\Models\\Reponse.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Quizzz\\Quizzz\\Models\\Reponse.cs",
+              "RelativeToolTip": "Quizzz\\Models\\Reponse.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA9wBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T10:47:59.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "QuestionDTO.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Quizzz\\Quizzz\\Models\\QuestionDTO.cs",
+              "RelativeDocumentMoniker": "Quizzz\\Models\\QuestionDTO.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Quizzz\\Quizzz\\Models\\QuestionDTO.cs",
+              "RelativeToolTip": "Quizzz\\Models\\QuestionDTO.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAwwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T15:03:35.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "QuestionTest.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Quizzz\\Quizzz\\Models\\QuestionTest.cs",
+              "RelativeDocumentMoniker": "Quizzz\\Models\\QuestionTest.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Quizzz\\Quizzz\\Models\\QuestionTest.cs",
+              "RelativeToolTip": "Quizzz\\Models\\QuestionTest.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAgwAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T18:16:01.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "QuestionHistoriqueDTO.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Quizzz\\Quizzz\\Models\\QuestionHistoriqueDTO.cs",
+              "RelativeDocumentMoniker": "Quizzz\\Models\\QuestionHistoriqueDTO.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Quizzz\\Quizzz\\Models\\QuestionHistoriqueDTO.cs",
+              "RelativeToolTip": "Quizzz\\Models\\QuestionHistoriqueDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T10:20:07.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Utilisateur.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Quizzz\\Quizzz\\Models\\Utilisateur.cs",
+              "RelativeDocumentMoniker": "Quizzz\\Models\\Utilisateur.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Quizzz\\Quizzz\\Models\\Utilisateur.cs",
+              "RelativeToolTip": "Quizzz\\Models\\Utilisateur.cs",
+              "ViewState": "AgIAAAAAAADOmZmZmZk2wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T16:53:00.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CondidatCreateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Quizzz\\Quizzz\\Models\\CondidatCreateDTO.cs",
+              "RelativeDocumentMoniker": "Quizzz\\Models\\CondidatCreateDTO.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Quizzz\\Quizzz\\Models\\CondidatCreateDTO.cs",
+              "RelativeToolTip": "Quizzz\\Models\\CondidatCreateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T14:19:10.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UtilisateurDTO.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Quizzz\\Quizzz\\Models\\UtilisateurDTO.cs",
+              "RelativeDocumentMoniker": "Quizzz\\Models\\UtilisateurDTO.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Quizzz\\Quizzz\\Models\\UtilisateurDTO.cs",
+              "RelativeToolTip": "Quizzz\\Models\\UtilisateurDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T10:14:50.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CondidatDTO.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Quizzz\\Quizzz\\Models\\CondidatDTO.cs",
+              "RelativeDocumentMoniker": "Quizzz\\Models\\CondidatDTO.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Quizzz\\Quizzz\\Models\\CondidatDTO.cs",
+              "RelativeToolTip": "Quizzz\\Models\\CondidatDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T09:26:48.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "QuestionController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Quizzz\\Quizzz\\Controllers\\QuestionController.cs",
+              "RelativeDocumentMoniker": "Quizzz\\Controllers\\QuestionController.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Quizzz\\Quizzz\\Controllers\\QuestionController.cs",
+              "RelativeToolTip": "Quizzz\\Controllers\\QuestionController.cs",
+              "ViewState": "AgIAALkAAAAAs5mZmdkuwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T15:00:30.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TestCreateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Quizzz\\Quizzz\\Models\\TestCreateDTO.cs",
+              "RelativeDocumentMoniker": "Quizzz\\Models\\TestCreateDTO.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Quizzz\\Quizzz\\Models\\TestCreateDTO.cs",
+              "RelativeToolTip": "Quizzz\\Models\\TestCreateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T14:23:31.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TestController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Quizzz\\Quizzz\\Controllers\\TestController.cs",
+              "RelativeDocumentMoniker": "Quizzz\\Controllers\\TestController.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Quizzz\\Quizzz\\Controllers\\TestController.cs",
+              "RelativeToolTip": "Quizzz\\Controllers\\TestController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T13:47:48.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Question.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Quizzz\\Quizzz\\Models\\Question.cs",
+              "RelativeDocumentMoniker": "Quizzz\\Models\\Question.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Quizzz\\Quizzz\\Models\\Question.cs",
+              "RelativeToolTip": "Quizzz\\Models\\Question.cs",
+              "ViewState": "AgIAAAUAAABwzszMzOw5wAkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T10:47:53.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SectionsController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Quizzz\\Quizzz\\Controllers\\SectionsController.cs",
+              "RelativeDocumentMoniker": "Quizzz\\Controllers\\SectionsController.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Quizzz\\Quizzz\\Controllers\\SectionsController.cs",
+              "RelativeToolTip": "Quizzz\\Controllers\\SectionsController.cs",
+              "ViewState": "AgIAABAAAAB4ZmZmZiYkwBQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T21:22:44.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Section.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Quizzz\\Quizzz\\Models\\Section.cs",
+              "RelativeDocumentMoniker": "Quizzz\\Models\\Section.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Quizzz\\Quizzz\\Models\\Section.cs",
+              "RelativeToolTip": "Quizzz\\Models\\Section.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAIwA0AAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T13:38:40.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CollegeDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Quizzz\\Quizzz\\CollegeDBContext.cs",
+              "RelativeDocumentMoniker": "Quizzz\\CollegeDBContext.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Quizzz\\Quizzz\\CollegeDBContext.cs",
+              "RelativeToolTip": "Quizzz\\CollegeDBContext.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T11:08:17.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Quizzz\\Quizzz\\appsettings.json",
+              "RelativeDocumentMoniker": "Quizzz\\appsettings.json",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Quizzz\\Quizzz\\appsettings.json",
+              "RelativeToolTip": "Quizzz\\appsettings.json",
+              "ViewState": "AgIAAAQAAACANTMzMzP7vwMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-26T07:55:09.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Quizzz\\Quizzz\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Quizzz\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Quizzz\\Quizzz\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Quizzz\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAmwBEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-26T07:50:38.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ReponseController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Quizzz\\Quizzz\\Controllers\\ReponseController.cs",
+              "RelativeDocumentMoniker": "Quizzz\\Controllers\\ReponseController.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Quizzz\\Quizzz\\Controllers\\ReponseController.cs",
+              "RelativeToolTip": "Quizzz\\Controllers\\ReponseController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAmwCoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T16:51:23.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Quizzz\\Quizzz\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Quizzz\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Quizzz\\Quizzz\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Quizzz\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAABAAAADA0szMzOwwwBEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T16:09:22.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Personne.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Quizzz\\Quizzz\\Models\\Personne.cs",
+              "RelativeDocumentMoniker": "Quizzz\\Models\\Personne.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Quizzz\\Quizzz\\Models\\Personne.cs",
+              "RelativeToolTip": "Quizzz\\Models\\Personne.cs",
+              "ViewState": "AgIAAAYAAAAAZ2ZmZmbwvw0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T08:50:35.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ResetPasswordDTo.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Quizzz\\Quizzz\\Models\\ResetPasswordDTo.cs",
+              "RelativeDocumentMoniker": "Quizzz\\Models\\ResetPasswordDTo.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Quizzz\\Quizzz\\Models\\ResetPasswordDTo.cs",
+              "RelativeToolTip": "Quizzz\\Models\\ResetPasswordDTo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T09:25:45.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "EmailModel.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Quizzz\\Quizzz\\Models\\EmailModel.cs",
+              "RelativeDocumentMoniker": "Quizzz\\Models\\EmailModel.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Quizzz\\Quizzz\\Models\\EmailModel.cs",
+              "RelativeToolTip": "Quizzz\\Models\\EmailModel.cs",
+              "ViewState": "AgIAAAMAAADYmZmZmRk2wAgAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T14:23:00.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Quizzz\\Quizzz\\UtilityService\\IEmailService.cs",
+              "RelativeDocumentMoniker": "Quizzz\\UtilityService\\IEmailService.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Quizzz\\Quizzz\\UtilityService\\IEmailService.cs",
+              "RelativeToolTip": "Quizzz\\UtilityService\\IEmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T14:30:35.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Quizzz\\Quizzz\\UtilityService\\EmailService.cs",
+              "RelativeDocumentMoniker": "Quizzz\\UtilityService\\EmailService.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Quizzz\\Quizzz\\UtilityService\\EmailService.cs",
+              "RelativeToolTip": "Quizzz\\UtilityService\\EmailService.cs",
+              "ViewState": "AgIAAAYAAACcmZmZmfk2wCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T14:34:12.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "EmailBody.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Quizzz\\Quizzz\\Helper\\EmailBody.cs",
+              "RelativeDocumentMoniker": "Quizzz\\Helper\\EmailBody.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Quizzz\\Quizzz\\Helper\\EmailBody.cs",
+              "RelativeToolTip": "Quizzz\\Helper\\EmailBody.cs",
+              "ViewState": "AgIAACgAAACA0MzMzEwewDQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T15:31:58.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "PasswordHasher.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\AppData\\Local\\Temp\\Rar$DIa1756.8318\\PasswordHasher.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\Rar$DIa1756.8318\\PasswordHasher.cs",
+              "ToolTip": "C:\\Users\\USER\\AppData\\Local\\Temp\\Rar$DIa1756.8318\\PasswordHasher.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\Rar$DIa1756.8318\\PasswordHasher.cs",
+              "ViewState": "AgIAAAgAAACgNDMzM5MwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T15:36:13.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Quizzz.csproj",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Quizzz\\Quizzz\\Quizzz.csproj",
+              "RelativeDocumentMoniker": "Quizzz\\Quizzz.csproj",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Quizzz\\Quizzz\\Quizzz.csproj",
+              "RelativeToolTip": "Quizzz\\Quizzz.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-26T07:45:21.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "PasswordHasher.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Quizzz\\Quizzz\\Helper\\PasswordHasher.cs",
+              "RelativeDocumentMoniker": "Quizzz\\Helper\\PasswordHasher.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Quizzz\\Quizzz\\Helper\\PasswordHasher.cs",
+              "RelativeToolTip": "Quizzz\\Helper\\PasswordHasher.cs",
+              "ViewState": "AgIAAAYAAAAA//////8PwAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T08:16:35.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAOsUAAAAAAAAAAAQwPMUAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-07-13T21:56:17.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "libman.json",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Quizzz\\Quizzz\\libman.json",
+              "RelativeDocumentMoniker": "Quizzz\\libman.json",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Quizzz\\Quizzz\\libman.json",
+              "RelativeToolTip": "Quizzz\\libman.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-26T08:03:48.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "project.assets.json",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Quizzz\\Quizzz\\obj\\project.assets.json",
+              "RelativeDocumentMoniker": "Quizzz\\obj\\project.assets.json",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Quizzz\\Quizzz\\obj\\project.assets.json",
+              "RelativeToolTip": "Quizzz\\obj\\project.assets.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAANYQAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-24T16:33:36.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Quizzz\\Quizzz\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "Quizzz\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Quizzz\\Quizzz\\WeatherForecast.cs",
+              "RelativeToolTip": "Quizzz\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T16:33:55.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ydaunlkw..sql",
+              "DocumentMoniker": "C:\\Users\\USER\\AppData\\Local\\Temp\\ydaunlkw..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\ydaunlkw..sql",
+              "ToolTip": "C:\\Users\\USER\\AppData\\Local\\Temp\\ydaunlkw..sql",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\ydaunlkw..sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-06-24T16:25:32.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "whl35r14..sql",
+              "DocumentMoniker": "C:\\Users\\USER\\AppData\\Local\\Temp\\whl35r14..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\whl35r14..sql",
+              "ToolTip": "C:\\Users\\USER\\AppData\\Local\\Temp\\whl35r14..sql",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\whl35r14..sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-06-24T16:22:08.505Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
